@@ -1,0 +1,19 @@
+Variables = son cajas que pueden estar llenas o vacias y sirven para almacenar datos.
+Hay de diferentes clases.
+
+Strings = Son variables (o "cajas") que solo pueden almacenar letras, palabras, frases, etc.
+Se diferencia de una variable numerica que el valor se escribe entre "".
+
+Fuciones = Son bloques de codigo que sirven para no repetir lineas de codigo.
+
+Argumentos = Son las variables con las que trabaja una funciones.
+Pueden estar definidas dentro de los parentesis (funcion (argumento)) o dentro de la funcion.
+
+Return = funcion especial que retorna un valor dentro de la funcion que de otra forma seria inaccesible.
+Corta automaticamente la funcion una vez que llega a la linea donde esta el return.
+
+Declaraciones = Son elementos que sirven como filtro para que si se cumple la condiciones que establecen
+se realice una accion o no.
+
+Valores Booleanos = Son dos valores especiales que solo pueden ser verdadero o falso. 
+Junto con las declaraciones confoman filtros para las acciones que el codigo debe tomar.
