@@ -1,0 +1,12 @@
+for = es un declaracion que sirve para no repetir codigo. Se usa para ciclar argumentos "x" cantidada de veces
+facilitando y acortando los bloques de codigo.
+
+Operadores de comparacion = se utilizan como control de entrada a una linea de codigo en la cual se tiene que cumplir 
+la condicion o condiciones especificadas. Siguen las reglas de la logica, osea, una doble negacion se hace una afirmacion
+y viceversa,
+
+&& significa "y", para que se cumpla esta condicion, ambos lados del operador deben ser cierto o falso al mismo tiempo.
+
+|| singnifica "o", en este caso es necesario que solo uno de los operandos cumpla la condicion/es.
+
+! significa "no", transforma un operador en su opuesto, es decir, al verdadero lo hace falso (no verdedaro) y al falso verdadero.
