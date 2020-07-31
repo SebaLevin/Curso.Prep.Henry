@@ -1,0 +1,12 @@
+Array o Arreglo = es una collecion de datos ordenados, la cual se le puede agregar cualquier tipo de variabel (intiger, string, boolean, etc.). 
+Tambien puede llevar un arreglo dentro del arreglo, y otro arreglo dentro del arreglo dentro del arreglo, y asi sucesivamente o ser un arreglo vacio.
+Se puede ciclar dentro de los arreglos para poder hacer cosas con los datos. Para "invocar" un dato es simplemente poner el nombre del arreglo y entre
+corchtetes poner la posicion esta el dato que queremos utilizar, por ejemplo:
+
+var arreglo = [1, "hola", true, undifiend, null];
+
+Si quisiera hacer algo con el 1 simplemente deberia escribir:
+
+arreglo[0] + 1 
+
+Cada posicion dentro del arreglo se enumera del 0 al n (n seria el numero de elemntos dentro del arreglo).
