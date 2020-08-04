@@ -1,0 +1,31 @@
+Objeto = es la representacion "informatica" de un objeto (valga de la redundancia) de la vida real.
+
+Propiedades = se aparean en lo que se llama clave:valor, es decir, la clave es el nombre de la propiedad, y el valor, se define por si solo.
+Las propiedades pueden contener todos los tipos de datos asi como tambien, arreglos, otros objetos y funciones.
+
+Métodos = es como se denominan las funciones cuando se declaran dentro un objeto.
+
+Bucle for…in = es un bucle especial que se utiliza para recorrer un objeto. Como las claves de las propeidades no son numericas como en los arreglos,
+se un utiliza el nombre de la clave que se quiere iterar, la palabra "in" (en) y el nombre de el objeto.
+
+Notación de puntos vs notación de corchetes = son dos formas diferentes de invocar o llamar o utilziar una propiedad dentro del objeto.
+
+Notacion de puntos (dot notation) = objeto.propiedad.
+
+-Las propiedades identificadas solo pueden ser alfanuméricas (y _ y $)
+
+-Los identificadores de propiedad no pueden comenzar con un número.
+
+-Los identificadores de propiedad no pueden contener variables.
+
+-OK = obj.prop_1, obj.prop$.
+
+-No está bien = obj.1prop, obj.prop name.
+
+Notacion de corchetes (bracket notation) = objeto["propiedad"].
+
+-Los identificadores de propiedad deben ser una Cadena o una variable que haga referencia a una Cadena.
+
+-Está bien usar variables, espacios y cadenas que comienzan con números.
+
+-OK = obj ["1prop"], obj ["nombre de utilería"].
