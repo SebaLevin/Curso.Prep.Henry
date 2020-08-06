@@ -18,3 +18,21 @@ img{
     margin: 50px;
 
 }
+body{
+    background-color: aqua;
+    background-size: 50% 50%;
+}
+.divClass{
+    height: 600px;
+    width: 500px;
+    background-color: burlywood;
+    padding: 50px;
+    border: chocolate;
+    border-style: double;
+    border-width: 10px;
+    text-align: center;
+}
+div{
+    margin-right: auto;
+    margin-left: auto;
+}
